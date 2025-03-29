@@ -16,9 +16,6 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://reworkd.ai/docs">📚 Docs</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/reworkdai">🐦 Twitter</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
 </p>
 
 AgentGPT allows you to configure and deploy Autonomous AI agents.
