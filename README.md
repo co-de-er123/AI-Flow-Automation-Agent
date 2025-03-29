@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/co-de-er123/AI-Flow-Automation-Agent/blob/master/aiagentlogo.png" height="300" alt="AgentGPT Logo"/>
+</p>
 <p align="center">
   <em>🤖 Assemble, configure, and deploy autonomous AI Agent(s) in your browser. 🤖   </em>
 </p>
