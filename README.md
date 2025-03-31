@@ -15,7 +15,6 @@
 <a href="https://agentgpt.reworkd.ai">🔗 Short link</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://reworkd.ai/docs">📚 Docs</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 </p>
 
 AgentGPT allows you to configure and deploy Autonomous AI agents.
