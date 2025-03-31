@@ -32,7 +32,7 @@ For the best demo experience, try [our site](https://agentgpt.reworkd.ai) direct
 
 ## 👨‍🚀 Getting Started
 
-The easiest way to get started with AgentGPT is automatic setup CLI bundled with the project.
+The easiest way to get started with AI Agent is automatic setup CLI bundled with the project.
 The cli sets up the following for AgentGPT:
 - 🔐 [Environment variables](https://github.com/reworkd/AgentGPT/blob/main/.env.example) (and API Keys)
 - 🗂️ [Database](https://github.com/reworkd/AgentGPT/tree/main/db) (Mysql)
